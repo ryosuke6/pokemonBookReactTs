@@ -1,0 +1,2 @@
+# pokemonBookReactTs
+React×TSのポケモンに関するサービス開発用リポジトリ
